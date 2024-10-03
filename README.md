@@ -10,7 +10,7 @@ The Type1WL Evaluation Kit includes the following components:
 
 The following chapters explain how to start software development on the Type1WL module with the help of the EVK and a few demo appications.
 
-Please note that the demo applications of this repository include the [aos-sdk](https://github.com/norbertherbert/aos-sdk) git repository as a submodule.
+Please note that the demo applications of this repository include the [aos-sdk](https://github.com/Abeeway/aos-sdk) git repository as a submodule.
 
 ## Set up the Development Environment
 
@@ -18,7 +18,7 @@ Please note that the demo applications of this repository include the [aos-sdk](
 2. Clone this repository:  
 
    ```bash
-   git clone https://github.com/norbertherbert/aos-demo-app.git`
+   git clone https://github.com/Abeeway/aos-demo-app.git`
    ```
 
 3. Start the STM32CubeIDE and select the cloned repo as the workspace directory
@@ -41,9 +41,9 @@ Please note that the demo applications of this repository include the [aos-sdk](
 
 ## Read the detailed user guide and study the source code
 
-1. Read the [AOS-SDK User Guide](https://github.com/norbertherbert/aos-sdk/blob/main/manuals/AOS-SDK-user_guide.pdf)
+1. Read the [AOS-SDK User Guide](https://github.com/Abeeway/aos-sdk/blob/main/manuals/AOS-SDK-user_guide.pdf)
 2. Study the source code of the apps by having a look at the `README.md` and `src/main.c` files of the appropriate project.
-   - [demo1/README.md](https://github.com/norbertherbert/aos-demo-app/blob/main/apps/abeeway-demo/demo1/README.md),
-   - [demo2/README.md](https://github.com/norbertherbert/aos-demo-app/blob/main/apps/abeeway-demo/demo2/README.md),
-   - [demo3/README.md](https://github.com/norbertherbert/aos-demo-app/blob/main/apps/abeeway-demo/demo3/README.md)
-3. Study the auto-generated API documentation of the aos-sdk in the [aos-sdk/manuals/html](https://github.com/norbertherbert/aos-sdk/tree/main/manuals/html) folder. After you cloned this repository, you can open the [`index.html`](https://htmlpreview.github.io/?https://github.com/norbertherbert/aos-sdk/blob/main/manuals/html/index.html) file with your favorite web browser to start reading.
+   - [demo1/README.md](https://github.com/Abeeway/aos-demo-app/blob/main/apps/abeeway-demo/demo1/README.md),
+   - [demo2/README.md](https://github.com/Abeeway/aos-demo-app/blob/main/apps/abeeway-demo/demo2/README.md),
+   - [demo3/README.md](https://github.com/Abeeway/aos-demo-app/blob/main/apps/abeeway-demo/demo3/README.md)
+3. Study the auto-generated API documentation of the aos-sdk in the [aos-sdk/manuals/html](https://github.com/Abeeway/aos-sdk/tree/main/manuals/html) folder. After you cloned this repository, you can open the [`index.html`](https://htmlpreview.github.io/?https://github.com/Abeeway/aos-sdk/blob/main/manuals/html/index.html) file with your favorite web browser to start reading.

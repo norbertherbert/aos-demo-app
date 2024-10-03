@@ -1,0 +1,3 @@
+[submodule "aos-sdk"]
+	path = aos-sdk
+	url = https://github.com/norbertherbert/aos-sdk.git

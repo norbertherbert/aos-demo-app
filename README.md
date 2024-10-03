@@ -43,7 +43,7 @@ Please note that the demo applications of this repository include the [aos-sdk](
 
 1. Read the [AOS-SDK User Guide](https://github.com/norbertherbert/aos-sdk/blob/main/manuals/AOS-SDK-user_guide.pdf)
 2. Study the source code of the apps by having a look at the `README.md` and `src/main.c` files of the appropriate project.
-   - [demo1/README.md](https://github.com/norbertherbert/aos-demo-app/tree/aos-sdk_v1.2-1/apps/abeeway-demo/demo1/README.md),
-   - [demo2/README.md](https://github.com/norbertherbert/aos-demo-app/tree/aos-sdk_v1.2-1/apps/abeeway-demo/demo2/README.md),
-   - [demo3/README.md](https://github.com/norbertherbert/aos-demo-app/tree/aos-sdk_v1.2-1/apps/abeeway-demo/demo3/README.md)
+   - [demo1/README.md](https://github.com/norbertherbert/aos-demo-app/blob/main/apps/abeeway-demo/demo1/README.md),
+   - [demo2/README.md](https://github.com/norbertherbert/aos-demo-app/blob/main/apps/abeeway-demo/demo2/README.md),
+   - [demo3/README.md](https://github.com/norbertherbert/aos-demo-app/blob/main/apps/abeeway-demo/demo3/README.md)
 3. Study the auto-generated API documentation of the aos-sdk in the [aos-sdk/manuals/html](https://github.com/norbertherbert/aos-sdk/tree/main/manuals/html) folder. After you cloned this repository, you can open the [`index.html`](https://htmlpreview.github.io/?https://github.com/norbertherbert/aos-sdk/blob/main/manuals/html/index.html) file with your favorite web browser to start reading.

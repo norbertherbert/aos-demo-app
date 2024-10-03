@@ -1,4 +1,4 @@
-# Abeeway Type1WL Geolocation Module Demo Applications
+# AOS-SDK Demo Applications
 
 ## Introduction
 
